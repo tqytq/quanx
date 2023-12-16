@@ -44,6 +44,7 @@ HOST-SUFFIX,amazonvideo.com,PROXY
 HOST-SUFFIX,anthropic.com,PROXY
 HOST-SUFFIX,appdomain.cloud,PROXY
 HOST-SUFFIX,arkoselabs.com,PROXY
+HOST-SUFFIX,asn247.net,PROXY
 HOST-SUFFIX,associates-amazon.com,PROXY
 HOST-SUFFIX,as-stats.com,PROXY
 HOST-SUFFIX,astrill.com,PROXY
@@ -83,6 +84,8 @@ HOST-SUFFIX,cloudfront.net,PROXY
 HOST-SUFFIX,cms-twdigitalassets.com,PROXY
 HOST-SUFFIX,covid19rx.org,PROXY
 HOST-SUFFIX,covid19-rx.org,PROXY
+HOST-SUFFIX,cyberghost.app,PROXY
+HOST-SUFFIX,cyberghostvpn.com,PROXY
 HOST-SUFFIX,dependabot.com,PROXY
 HOST-SUFFIX,digicert.com,PROXY
 HOST-SUFFIX,dnsleaktest.com,PROXY
@@ -153,6 +156,7 @@ HOST-SUFFIX,ipify.org,PROXY
 HOST-SUFFIX,java.com,PROXY
 HOST-SUFFIX,java.net,PROXY
 HOST-SUFFIX,jsdelivr.net,PROXY
+HOST-SUFFIX,kapetracking.com,PROXY
 HOST-SUFFIX,launchdarkly.com,PROXY
 HOST-SUFFIX,live.com,PROXY
 HOST-SUFFIX,live.net,PROXY
@@ -167,6 +171,7 @@ HOST-SUFFIX,msauth.net,PROXY
 HOST-SUFFIX,msftauth.net,PROXY
 HOST-SUFFIX,msn.com,PROXY
 HOST-SUFFIX,myoctocat.com,PROXY
+HOST-SUFFIX,mzstatic.com,PROXY
 HOST-SUFFIX,netflix.com,PROXY
 HOST-SUFFIX,netflix.net,PROXY
 HOST-SUFFIX,nflxext.com,PROXY
@@ -204,6 +209,7 @@ HOST-SUFFIX,oracleinfinity.io,PROXY
 HOST-SUFFIX,oss-cn-hongkong.aliyuncs.com,PROXY
 HOST-SUFFIX,outlook.com,PROXY
 HOST-SUFFIX,periscope.tv,PROXY
+HOST-SUFFIX,pki.goog,PROXY
 HOST-SUFFIX,poe.com,PROXY
 HOST-SUFFIX,poecdn.net,PROXY
 HOST-SUFFIX,pscdn.co,PROXY
@@ -253,6 +259,7 @@ HOST-SUFFIX,swiftgram.app,PROXY
 HOST-SUFFIX,t.co,PROXY
 HOST-SUFFIX,tellapart.com,PROXY
 HOST-SUFFIX,thegithubshop.com,PROXY
+HOST-SUFFIX,trustpilot.net,PROXY
 HOST-SUFFIX,trycloudflare.com,PROXY
 HOST-SUFFIX,tweetdeck.com,PROXY
 HOST-SUFFIX,twimg.co,PROXY
@@ -269,6 +276,8 @@ HOST-SUFFIX,twtrdns.net,PROXY
 HOST-SUFFIX,twttr.com,PROXY
 HOST-SUFFIX,twttr.net,PROXY
 HOST-SUFFIX,twvid.com,PROXY
+HOST-SUFFIX,unpkg.com,PROXY
+HOST-SUFFIX,usertrust.com,PROXY
 HOST-SUFFIX,v2ex.com,PROXY
 HOST-SUFFIX,videodelivery.net,PROXY
 HOST-SUFFIX,vine.co,PROXY
