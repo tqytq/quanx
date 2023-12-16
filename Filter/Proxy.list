@@ -26,6 +26,7 @@ HOST-SUFFIX,addthisedge.com,PROXY
 HOST-SUFFIX,adform.net,PROXY
 HOST-SUFFIX,adobedtm.com,PROXY
 HOST-SUFFIX,adspower.net,PROXY
+HOST-SUFFIX,adsrvr.org,PROXY
 HOST-SUFFIX,ads-twitter.com,PROXY
 HOST-SUFFIX,ai.com,PROXY
 HOST-SUFFIX,aiv-cdn.net,PROXY
@@ -44,6 +45,9 @@ HOST-SUFFIX,anthropic.com,PROXY
 HOST-SUFFIX,appdomain.cloud,PROXY
 HOST-SUFFIX,arkoselabs.com,PROXY
 HOST-SUFFIX,associates-amazon.com,PROXY
+HOST-SUFFIX,as-stats.com,PROXY
+HOST-SUFFIX,astrill.com,PROXY
+HOST-SUFFIX,astrill.org,PROXY
 HOST-SUFFIX,ateam-oracle.com,PROXY
 HOST-SUFFIX,atom.io,PROXY
 HOST-SUFFIX,auth0.com,PROXY
@@ -82,6 +86,7 @@ HOST-SUFFIX,covid19-rx.org,PROXY
 HOST-SUFFIX,dependabot.com,PROXY
 HOST-SUFFIX,digicert.com,PROXY
 HOST-SUFFIX,dnsleaktest.com,PROXY
+HOST-SUFFIX,doubleclick.net,PROXY
 HOST-SUFFIX,edgekey.net,PROXY
 HOST-SUFFIX,eloqua.com,PROXY
 HOST-SUFFIX,eloquaeditors.com,PROXY
@@ -98,6 +103,7 @@ HOST-SUFFIX,fbcdn.net,PROXY
 HOST-SUFFIX,fbsbx.com,PROXY
 HOST-SUFFIX,fbworkmail.com,PROXY
 HOST-SUFFIX,featuregates.org,PROXY
+HOST-SUFFIX,flashtalking.com,PROXY
 HOST-SUFFIX,font.im,PROXY
 HOST-SUFFIX,ggpht.com,PROXY
 HOST-SUFFIX,ghcr.io,PROXY
@@ -209,6 +215,7 @@ HOST-SUFFIX,rawgithub.com,PROXY
 HOST-SUFFIX,repo.new,PROXY
 HOST-SUFFIX,responsys.net,PROXY
 HOST-SUFFIX,rocksdb.org,PROXY
+HOST-SUFFIX,rubiconproject.com,PROXY
 HOST-SUFFIX,s0r4nd0m.com,PROXY
 HOST-SUFFIX,s81c.com,PROXY
 HOST-SUFFIX,salesforceliveagent.com,PROXY
