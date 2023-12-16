@@ -153,6 +153,7 @@ HOST-SUFFIX,intercomcdn.com,PROXY
 HOST-SUFFIX,ip-api.com,PROXY
 HOST-SUFFIX,ipcheck.ing,PROXY
 HOST-SUFFIX,ipify.org,PROXY
+HOST-SUFFIX,ipinfo.io,PROXY
 HOST-SUFFIX,java.com,PROXY
 HOST-SUFFIX,java.net,PROXY
 HOST-SUFFIX,jsdelivr.net,PROXY
@@ -160,6 +161,7 @@ HOST-SUFFIX,kapetracking.com,PROXY
 HOST-SUFFIX,launchdarkly.com,PROXY
 HOST-SUFFIX,live.com,PROXY
 HOST-SUFFIX,live.net,PROXY
+HOST-SUFFIX,livechatinc.com,PROXY
 HOST-SUFFIX,livekit.cloud,PROXY
 HOST-SUFFIX,m.me,PROXY
 HOST-SUFFIX,media-amazon.com,PROXY
@@ -167,6 +169,7 @@ HOST-SUFFIX,messenger.com,PROXY
 HOST-SUFFIX,microsoft.com,PROXY
 HOST-SUFFIX,microsoftonline.com,PROXY
 HOST-SUFFIX,mitsea.com,PROXY
+HOST-SUFFIX,mouseflow.com,PROXY
 HOST-SUFFIX,msauth.net,PROXY
 HOST-SUFFIX,msftauth.net,PROXY
 HOST-SUFFIX,msn.com,PROXY
