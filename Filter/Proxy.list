@@ -40,6 +40,7 @@ HOST-SUFFIX,amazonvideo.com,PROXY
 HOST-SUFFIX,anthropic.com,PROXY
 HOST-SUFFIX,appdomain.cloud,PROXY
 HOST-SUFFIX,arkoselabs.com,PROXY
+HOST-SUFFIX,associates-amazon.com,PROXY
 HOST-SUFFIX,ateam-oracle.com,PROXY
 HOST-SUFFIX,atom.io,PROXY
 HOST-SUFFIX,auth0.com,PROXY
@@ -73,6 +74,7 @@ HOST-SUFFIX,cms-twdigitalassets.com,PROXY
 HOST-SUFFIX,covid19rx.org,PROXY
 HOST-SUFFIX,covid19-rx.org,PROXY
 HOST-SUFFIX,dependabot.com,PROXY
+HOST-SUFFIX,digicert.com,PROXY
 HOST-SUFFIX,edgekey.net,PROXY
 HOST-SUFFIX,eloqua.com,PROXY
 HOST-SUFFIX,eloquaeditors.com,PROXY
@@ -195,6 +197,7 @@ HOST-SUFFIX,spotifycodes.com,PROXY
 HOST-SUFFIX,spotify-everywhere.com,PROXY
 HOST-SUFFIX,spotifyforbrands.com,PROXY
 HOST-SUFFIX,spotifyjobs.com,PROXY
+HOST-SUFFIX,ssl-images-amazon.com,PROXY
 HOST-SUFFIX,stash.wiki,PROXY
 HOST-SUFFIX,stash.ws,PROXY
 HOST-SUFFIX,stash-activation.com,PROXY
@@ -335,4 +338,3 @@ IP-ASN,59930,PROXY
 IP-ASN,62014,PROXY
 IP-ASN,62041,PROXY
 IP-ASN,211157,PROXY
-
