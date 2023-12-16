@@ -23,6 +23,7 @@ HOST-SUFFIX,aboutamazon.com,PROXY
 HOST-SUFFIX,addthis.com,PROXY
 HOST-SUFFIX,addthiscdn.com,PROXY
 HOST-SUFFIX,addthisedge.com,PROXY
+HOST-SUFFIX,adform.net,PROXY
 HOST-SUFFIX,adobedtm.com,PROXY
 HOST-SUFFIX,adspower.net,PROXY
 HOST-SUFFIX,ads-twitter.com,PROXY
@@ -87,6 +88,7 @@ HOST-SUFFIX,eloquaeditors.com,PROXY
 HOST-SUFFIX,eloquapreview.com,PROXY
 HOST-SUFFIX,en25.com,PROXY
 HOST-SUFFIX,facebook.com,PROXY
+HOST-SUFFIX,facebook.net,PROXY
 HOST-SUFFIX,fastly.net,PROXY
 HOST-SUFFIX,fb.com,PROXY
 HOST-SUFFIX,fb.me,PROXY
@@ -207,6 +209,7 @@ HOST-SUFFIX,rawgithub.com,PROXY
 HOST-SUFFIX,repo.new,PROXY
 HOST-SUFFIX,responsys.net,PROXY
 HOST-SUFFIX,rocksdb.org,PROXY
+HOST-SUFFIX,s0r4nd0m.com,PROXY
 HOST-SUFFIX,s81c.com,PROXY
 HOST-SUFFIX,salesforceliveagent.com,PROXY
 HOST-SUFFIX,s-bluemix.net,PROXY
@@ -226,6 +229,7 @@ HOST-SUFFIX,spotifycodes.com,PROXY
 HOST-SUFFIX,spotify-everywhere.com,PROXY
 HOST-SUFFIX,spotifyforbrands.com,PROXY
 HOST-SUFFIX,spotifyjobs.com,PROXY
+HOST-SUFFIX,ss-cdn.com,PROXY
 HOST-SUFFIX,ssl-images-amazon.com,PROXY
 HOST-SUFFIX,sspanel.net,PROXY
 HOST-SUFFIX,stash.wiki,PROXY
@@ -235,6 +239,8 @@ HOST-SUFFIX,statsig.com,PROXY
 HOST-SUFFIX,statsigapi.net,PROXY
 HOST-SUFFIX,stripe.com,PROXY
 HOST-SUFFIX,sun.com,PROXY
+HOST-SUFFIX,surfshark.com,PROXY
+HOST-SUFFIX,surfsharkdns.com,PROXY
 HOST-SUFFIX,surge-activation.com,PROXY
 HOST-SUFFIX,swiftgram.app,PROXY
 HOST-SUFFIX,t.co,PROXY
