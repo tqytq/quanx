@@ -23,6 +23,7 @@ HOST-SUFFIX,aboutamazon.com,PROXY
 HOST-SUFFIX,addthis.com,PROXY
 HOST-SUFFIX,addthiscdn.com,PROXY
 HOST-SUFFIX,addthisedge.com,PROXY
+HOST-SUFFIX,adspower.net,PROXY
 HOST-SUFFIX,ads-twitter.com,PROXY
 HOST-SUFFIX,ai.com,PROXY
 HOST-SUFFIX,aiv-cdn.net,PROXY
@@ -52,6 +53,7 @@ HOST-SUFFIX,bluemix.com,PROXY
 HOST-SUFFIX,bluemix.net,PROXY
 HOST-SUFFIX,bronto.com,PROXY
 HOST-SUFFIX,browser-intake-datadoghq.com,PROXY
+HOST-SUFFIX,browserscan.net,PROXY
 HOST-SUFFIX,byspotify.com,PROXY
 HOST-SUFFIX,cdninstagram.com,PROXY
 HOST-SUFFIX,claude.ai,PROXY
@@ -77,6 +79,7 @@ HOST-SUFFIX,covid19rx.org,PROXY
 HOST-SUFFIX,covid19-rx.org,PROXY
 HOST-SUFFIX,dependabot.com,PROXY
 HOST-SUFFIX,digicert.com,PROXY
+HOST-SUFFIX,dnsleaktest.com,PROXY
 HOST-SUFFIX,edgekey.net,PROXY
 HOST-SUFFIX,eloqua.com,PROXY
 HOST-SUFFIX,eloquaeditors.com,PROXY
@@ -92,6 +95,7 @@ HOST-SUFFIX,fbcdn.net,PROXY
 HOST-SUFFIX,fbsbx.com,PROXY
 HOST-SUFFIX,fbworkmail.com,PROXY
 HOST-SUFFIX,featuregates.org,PROXY
+HOST-SUFFIX,font.im,PROXY
 HOST-SUFFIX,ggpht.com,PROXY
 HOST-SUFFIX,ghcr.io,PROXY
 HOST-SUFFIX,git.io,PROXY
@@ -132,6 +136,8 @@ HOST-SUFFIX,instagr.am,PROXY
 HOST-SUFFIX,instagram.com,PROXY
 HOST-SUFFIX,intercom.io,PROXY
 HOST-SUFFIX,intercomcdn.com,PROXY
+HOST-SUFFIX,ip-api.com,PROXY
+HOST-SUFFIX,ipify.org,PROXY
 HOST-SUFFIX,java.com,PROXY
 HOST-SUFFIX,java.net,PROXY
 HOST-SUFFIX,jsdelivr.net,PROXY
@@ -159,6 +165,7 @@ HOST-SUFFIX,nflxvideo.net,PROXY
 HOST-SUFFIX,nicegram.app,PROXY
 HOST-SUFFIX,nicegram.cloud,PROXY
 HOST-SUFFIX,nodeseek.com,PROXY
+HOST-SUFFIX,nordvpn.com,PROXY
 HOST-SUFFIX,npm.community,PROXY
 HOST-SUFFIX,npmjs.com,PROXY
 HOST-SUFFIX,npmjs.org,PROXY
@@ -215,6 +222,7 @@ HOST-SUFFIX,spotify-everywhere.com,PROXY
 HOST-SUFFIX,spotifyforbrands.com,PROXY
 HOST-SUFFIX,spotifyjobs.com,PROXY
 HOST-SUFFIX,ssl-images-amazon.com,PROXY
+HOST-SUFFIX,sspanel.net,PROXY
 HOST-SUFFIX,stash.wiki,PROXY
 HOST-SUFFIX,stash.ws,PROXY
 HOST-SUFFIX,stash-activation.com,PROXY
@@ -262,6 +270,8 @@ HOST-SUFFIX,weather.com,PROXY
 HOST-SUFFIX,weatherchannel,PROXY
 HOST-SUFFIX,whatsapp.com,PROXY
 HOST-SUFFIX,whatsapp.net,PROXY
+HOST-SUFFIX,whoer.cc,PROXY
+HOST-SUFFIX,whoer.net,PROXY
 HOST-SUFFIX,wikimedia.org,PROXY
 HOST-SUFFIX,wikipedia.org,PROXY
 HOST-SUFFIX,windows.com,PROXY
