@@ -15,8 +15,6 @@ HOST-SUFFIX,tw,PROXY
 HOST-SUFFIX,uk,PROXY
 HOST-SUFFIX,us,PROXY
 HOST-SUFFIX,dev,PROXY
-HOST-SUFFIX,eu.org,PROXY
-HOST-SUFFIX,free.hr,PROXY
 HOST-SUFFIX,10why.net,PROXY
 HOST-SUFFIX,1drv.com,PROXY
 HOST-SUFFIX,1drv.ms,PROXY
@@ -24,9 +22,11 @@ HOST-SUFFIX,1e100.net,PROXY
 HOST-SUFFIX,2mdn.net,PROXY
 HOST-SUFFIX,2o7.net,PROXY
 HOST-SUFFIX,31173.se,PROXY
+HOST-SUFFIX,500px.com,PROXY
 HOST-SUFFIX,a573.net,PROXY
 HOST-SUFFIX,abc.xyz,PROXY
 HOST-SUFFIX,aboutamazon.com,PROXY
+HOST-SUFFIX,academia.edu,PROXY
 HOST-SUFFIX,acytoo.com,PROXY
 HOST-SUFFIX,addthis.com,PROXY
 HOST-SUFFIX,addthiscdn.com,PROXY
@@ -39,6 +39,7 @@ HOST-SUFFIX,adsrvr.org,PROXY
 HOST-SUFFIX,ads-twitter.com,PROXY
 HOST-SUFFIX,agkn.com,PROXY
 HOST-SUFFIX,ai.com,PROXY
+HOST-SUFFIX,airbnb.com,PROXY
 HOST-SUFFIX,aiv-cdn.net,PROXY
 HOST-SUFFIX,aiv-delivery.net,PROXY
 HOST-SUFFIX,akamai.net,PROXY
@@ -158,9 +159,11 @@ HOST-SUFFIX,discord.media,PROXY
 HOST-SUFFIX,discordapp.com,PROXY
 HOST-SUFFIX,discordapp.net,PROXY
 HOST-SUFFIX,discordstatus.com,PROXY
+HOST-SUFFIX,disqus.com,PROXY
 HOST-SUFFIX,dnsleak.com,PROXY
 HOST-SUFFIX,dnsleaktest.com,PROXY
 HOST-SUFFIX,doubleclick.net,PROXY
+HOST-SUFFIX,dropbox.com,PROXY
 HOST-SUFFIX,dsgroupmedia.com,PROXY
 HOST-SUFFIX,duckduckgo.com,PROXY
 HOST-SUFFIX,duolingo.cn,PROXY
@@ -172,6 +175,7 @@ HOST-SUFFIX,eloquaeditors.com,PROXY
 HOST-SUFFIX,eloquapreview.com,PROXY
 HOST-SUFFIX,en25.com,PROXY
 HOST-SUFFIX,eth.limo,PROXY
+HOST-SUFFIX,eu.org,PROXY
 HOST-SUFFIX,everestjs.net,PROXY
 HOST-SUFFIX,everesttech.net,PROXY
 HOST-SUFFIX,evergreen.com,PROXY
@@ -194,6 +198,8 @@ HOST-SUFFIX,featuregates.org,PROXY
 HOST-SUFFIX,fhsu.edu,PROXY
 HOST-SUFFIX,flashtalking.com,PROXY
 HOST-SUFFIX,font.im,PROXY
+HOST-SUFFIX,foursquare.com,PROXY
+HOST-SUFFIX,free.hr,PROXY
 HOST-SUFFIX,garr.it,PROXY
 HOST-SUFFIX,gcorelabs.com,PROXY
 HOST-SUFFIX,ggpht.com,PROXY
@@ -260,6 +266,7 @@ HOST-SUFFIX,iweec.com,PROXY
 HOST-SUFFIX,java,PROXY
 HOST-SUFFIX,java.com,PROXY
 HOST-SUFFIX,java.net,PROXY
+HOST-SUFFIX,jquery.com,PROXY
 HOST-SUFFIX,jsdelivr.net,PROXY
 HOST-SUFFIX,kabi.tk,PROXY
 HOST-SUFFIX,kamilszczepanski.com,PROXY
@@ -292,6 +299,8 @@ HOST-SUFFIX,marketo.net,PROXY
 HOST-SUFFIX,maxmind.com,PROXY
 HOST-SUFFIX,mbspeed.net,PROXY
 HOST-SUFFIX,media-amazon.com,PROXY
+HOST-SUFFIX,medium.com,PROXY
+HOST-SUFFIX,meetup.com,PROXY
 HOST-SUFFIX,melbicom.net,PROXY
 HOST-SUFFIX,messenger.com,PROXY
 HOST-SUFFIX,microsoft.com,PROXY
@@ -306,6 +315,7 @@ HOST-SUFFIX,mouseflow.com,PROXY
 HOST-SUFFIX,msauth.net,PROXY
 HOST-SUFFIX,msftauth.net,PROXY
 HOST-SUFFIX,msn.com,PROXY
+HOST-SUFFIX,muscache.com,PROXY
 HOST-SUFFIX,muscdn.com,PROXY
 HOST-SUFFIX,myoctocat.com,PROXY
 HOST-SUFFIX,mzstatic.com,PROXY
@@ -363,6 +373,7 @@ HOST-SUFFIX,phprcdn.com,PROXY
 HOST-SUFFIX,picjs.xyz,PROXY
 HOST-SUFFIX,ping.pe,PROXY
 HOST-SUFFIX,pinimg.com,PROXY
+HOST-SUFFIX,pinterest.com,PROXY
 HOST-SUFFIX,pki.goog,PROXY
 HOST-SUFFIX,playartifact.com,PROXY
 HOST-SUFFIX,pnunlimited.com,PROXY
@@ -383,6 +394,7 @@ HOST-SUFFIX,quantumult.app,PROXY
 HOST-SUFFIX,qwilt.com,PROXY
 HOST-SUFFIX,rawgit.com,PROXY
 HOST-SUFFIX,rawgithub.com,PROXY
+HOST-SUFFIX,reddit.com,PROXY
 HOST-SUFFIX,repo.new,PROXY
 HOST-SUFFIX,responsys.net,PROXY
 HOST-SUFFIX,rightnowtech.com,PROXY
@@ -406,6 +418,7 @@ HOST-SUFFIX,sfx.ms,PROXY
 HOST-SUFFIX,sgpstatp.com,PROXY
 HOST-SUFFIX,simpli.fi,PROXY
 HOST-SUFFIX,skype.com,PROXY
+HOST-SUFFIX,slack.com,PROXY
 HOST-SUFFIX,smartmailcloud.com,PROXY
 HOST-SUFFIX,s-microsoft.com,PROXY
 HOST-SUFFIX,sox.rs,PROXY
@@ -462,6 +475,7 @@ HOST-SUFFIX,truste.com,PROXY
 HOST-SUFFIX,trustpilot.net,PROXY
 HOST-SUFFIX,trycloudflare.com,PROXY
 HOST-SUFFIX,tsdtocl.com,PROXY
+HOST-SUFFIX,tumblr.com,PROXY
 HOST-SUFFIX,turris.cz,PROXY
 HOST-SUFFIX,tvsquared.com,PROXY
 HOST-SUFFIX,tweetdeck.com,PROXY
@@ -541,19 +555,6 @@ HOST-SUFFIX,youtubekids.com,PROXY
 HOST-SUFFIX,youtube-nocookie.com,PROXY
 HOST-SUFFIX,yt.be,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
-HOST-SUFFIX,jquery.com,PROXY
-HOST-SUFFIX,reddit.com,PROXY
-HOST-SUFFIX,pinterest.com,PROXY
-HOST-SUFFIX,foursquare.com,PROXY
-HOST-SUFFIX,academia.edu,PROXY
-HOST-SUFFIX,slack.com,PROXY
-HOST-SUFFIX,500px.com,PROXY
-HOST-SUFFIX,airbnb.com,PROXY
-HOST-SUFFIX,meetup.com,PROXY
-HOST-SUFFIX,muscache.com,PROXY
-HOST-SUFFIX,tumblr.com,PROXY
-HOST-SUFFIX,dropbox.com,PROXY
-HOST-SUFFIX,medium.com,PROXY
 #
 IP-CIDR,1.201.0.0/24,PROXY,no-resolve
 IP-CIDR,103.2.28.0/22,PROXY,no-resolve
@@ -672,3 +673,4 @@ IP-ASN,59930,PROXY
 IP-ASN,62014,PROXY
 IP-ASN,62041,PROXY
 IP-ASN,211157,PROXY
+IP-ASN,395954,PROXY
