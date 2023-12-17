@@ -82,6 +82,7 @@ HOST-SUFFIX,bandwagonhost.com,PROXY
 HOST-SUFFIX,battle.net,PROXY
 HOST-SUFFIX,battlenet.com,PROXY
 HOST-SUFFIX,b-cdn.net,PROXY
+HOST-SUFFIX,bigcloud.click,PROXY
 HOST-SUFFIX,bing.com,PROXY
 HOST-SUFFIX,bing.net,PROXY
 HOST-SUFFIX,bizible.com,PROXY
@@ -111,6 +112,7 @@ HOST-SUFFIX,cedexis-test.com,PROXY
 HOST-SUFFIX,cesnet.cz,PROXY
 HOST-SUFFIX,chalungu.cn,PROXY
 HOST-SUFFIX,chatgpt.com,PROXY
+HOST-SUFFIX,chinadigitaltimes.net,PROXY
 HOST-SUFFIX,chinamobile.com,PROXY
 HOST-SUFFIX,chinaunicomglobal.com,PROXY
 HOST-SUFFIX,chromeexperiments.com,PROXY
@@ -335,6 +337,7 @@ HOST-SUFFIX,nflxvideo.net,PROXY
 HOST-SUFFIX,nianticlabs.com,PROXY
 HOST-SUFFIX,nicegram.app,PROXY
 HOST-SUFFIX,nicegram.cloud,PROXY
+HOST-SUFFIX,nimhuemark.com,PROXY
 HOST-SUFFIX,nodeseek.com,PROXY
 HOST-SUFFIX,nordvpn.com,PROXY
 HOST-SUFFIX,npm.community,PROXY
@@ -543,6 +546,7 @@ HOST-SUFFIX,whois365.com,PROXY
 HOST-SUFFIX,whrq.net,PROXY
 HOST-SUFFIX,wikimedia.org,PROXY
 HOST-SUFFIX,wikipedia.org,PROXY
+HOST-SUFFIX,wiktionary.org,PROXY
 HOST-SUFFIX,windows.com,PROXY
 HOST-SUFFIX,windows.net,PROXY
 HOST-SUFFIX,witcom.cloud,PROXY
@@ -679,5 +683,6 @@ IP-ASN,59930,PROXY
 IP-ASN,62014,PROXY
 IP-ASN,62041,PROXY
 IP-ASN,211157,PROXY
+IP-ASN,133752,PROXY
 IP-ASN,20940,PROXY
 IP-ASN,395954,PROXY
