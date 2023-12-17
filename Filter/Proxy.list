@@ -23,6 +23,8 @@ HOST-SUFFIX,2mdn.net,PROXY
 HOST-SUFFIX,2o7.net,PROXY
 HOST-SUFFIX,31173.se,PROXY
 HOST-SUFFIX,500px.com,PROXY
+HOST-SUFFIX,6sc.co,PROXY
+HOST-SUFFIX,6sense.com,PROXY
 HOST-SUFFIX,a573.net,PROXY
 HOST-SUFFIX,abc.xyz,PROXY
 HOST-SUFFIX,aboutamazon.com,PROXY
@@ -105,6 +107,7 @@ HOST-SUFFIX,cabospeed.com,PROXY
 HOST-SUFFIX,cachefly.net,PROXY
 HOST-SUFFIX,cdn77.org,PROXY
 HOST-SUFFIX,cdninstagram.com,PROXY
+HOST-SUFFIX,cedexis-test.com,PROXY
 HOST-SUFFIX,cesnet.cz,PROXY
 HOST-SUFFIX,chalungu.cn,PROXY
 HOST-SUFFIX,chatgpt.com,PROXY
@@ -163,6 +166,7 @@ HOST-SUFFIX,disqus.com,PROXY
 HOST-SUFFIX,dnsleak.com,PROXY
 HOST-SUFFIX,dnsleaktest.com,PROXY
 HOST-SUFFIX,doubleclick.net,PROXY
+HOST-SUFFIX,driftt.com,PROXY
 HOST-SUFFIX,dropbox.com,PROXY
 HOST-SUFFIX,dsgroupmedia.com,PROXY
 HOST-SUFFIX,duckduckgo.com,PROXY
@@ -345,6 +349,7 @@ HOST-SUFFIX,oculuscdn.com,PROXY
 HOST-SUFFIX,office.com,PROXY
 HOST-SUFFIX,office.net,PROXY
 HOST-SUFFIX,office365.com,PROXY
+HOST-SUFFIX,omtrdc.net,PROXY
 HOST-SUFFIX,one.one.one,PROXY
 HOST-SUFFIX,onedrive.com,PROXY
 HOST-SUFFIX,onenote.com,PROXY
