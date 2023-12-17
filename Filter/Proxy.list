@@ -50,6 +50,7 @@ HOST-SUFFIX,amazontours.com,PROXY
 HOST-SUFFIX,amazonuniversity.jobs,PROXY
 HOST-SUFFIX,amazonvideo.com,PROXY
 HOST-SUFFIX,amplitude.com,PROXY
+HOST-SUFFIX,ampproject.org,PROXY
 HOST-SUFFIX,anthropic.com,PROXY
 HOST-SUFFIX,appdomain.cloud,PROXY
 HOST-SUFFIX,appspot.com,PROXY
@@ -168,7 +169,6 @@ HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,github.community,PROXY
 HOST-SUFFIX,githubapp.com,PROXY
 HOST-SUFFIX,githubassets.com,PROXY
-HOST-SUFFIX,github-cloud.s3.amazonaws.com,PROXY
 HOST-SUFFIX,githubhackathon.com,PROXY
 HOST-SUFFIX,githubnext.com,PROXY
 HOST-SUFFIX,githubstatus.com,PROXY
