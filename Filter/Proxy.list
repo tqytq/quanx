@@ -186,6 +186,7 @@ HOST-SUFFIX,eu.org,PROXY
 HOST-SUFFIX,everestjs.net,PROXY
 HOST-SUFFIX,everesttech.net,PROXY
 HOST-SUFFIX,evergreen.com,PROXY
+HOST-SUFFIX,evidon.com,PROXY
 HOST-SUFFIX,expressvpn.com,PROXY
 HOST-SUFFIX,ezoic.net,PROXY
 HOST-SUFFIX,facebook.com,PROXY
@@ -416,6 +417,7 @@ HOST-SUFFIX,s.team,PROXY
 HOST-SUFFIX,s0r4nd0m.com,PROXY
 HOST-SUFFIX,s81c.com,PROXY
 HOST-SUFFIX,salesforceliveagent.com,PROXY
+HOST-SUFFIX,sascdn.com,PROXY
 HOST-SUFFIX,sbline.it,PROXY
 HOST-SUFFIX,s-bluemix.net,PROXY
 HOST-SUFFIX,scdn.co,PROXY
@@ -534,6 +536,7 @@ HOST-SUFFIX,weatherchannel,PROXY
 HOST-SUFFIX,webmproject.org,PROXY
 HOST-SUFFIX,webrtc.org,PROXY
 HOST-SUFFIX,webseitenserver.com,PROXY
+HOST-SUFFIX,website-files.com,PROXY
 HOST-SUFFIX,wenjie.org,PROXY
 HOST-SUFFIX,whatsapp.com,PROXY
 HOST-SUFFIX,whatsapp.net,PROXY
@@ -550,7 +553,9 @@ HOST-SUFFIX,wiktionary.org,PROXY
 HOST-SUFFIX,windows.com,PROXY
 HOST-SUFFIX,windows.net,PROXY
 HOST-SUFFIX,witcom.cloud,PROXY
+HOST-SUFFIX,wordpress.com,PROXY
 HOST-SUFFIX,worldssl.net,PROXY
+HOST-SUFFIX,wp.com,PROXY
 HOST-SUFFIX,wsimg.com,PROXY
 HOST-SUFFIX,x.com,PROXY
 HOST-SUFFIX,yahoo.com,PROXY
