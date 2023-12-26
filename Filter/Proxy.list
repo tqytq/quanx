@@ -251,6 +251,7 @@ HOST-SUFFIX,googledrive.com,PROXY
 HOST-SUFFIX,googletagmanager.com,PROXY
 HOST-SUFFIX,googleusercontent.com,PROXY
 HOST-SUFFIX,googlevideo.com,PROXY
+HOST-SUFFIX,gravatar.com,PROXY
 HOST-SUFFIX,groundtruth.com,PROXY
 HOST-SUFFIX,gstatic.com,PROXY
 HOST-SUFFIX,gvt2.com,PROXY
@@ -446,6 +447,7 @@ HOST-SUFFIX,rawgithub.com,PROXY
 HOST-SUFFIX,reddit.com,PROXY
 HOST-SUFFIX,repo.new,PROXY
 HOST-SUFFIX,responsys.net,PROXY
+HOST-SUFFIX,rfihub.com,PROXY
 HOST-SUFFIX,rightnowtech.com,PROXY
 HOST-SUFFIX,riotcdn.net,PROXY
 HOST-SUFFIX,riotgames.com,PROXY
@@ -466,6 +468,7 @@ HOST-SUFFIX,sc-static.net,PROXY
 HOST-SUFFIX,seattlespheres.com,PROXY
 HOST-SUFFIX,semasio.net,PROXY
 HOST-SUFFIX,sentry-cdn.com,PROXY
+HOST-SUFFIX,serv00.com,PROXY
 HOST-SUFFIX,sfx.ms,PROXY
 HOST-SUFFIX,sgpstatp.com,PROXY
 HOST-SUFFIX,simpli.fi,PROXY
@@ -611,6 +614,7 @@ HOST-SUFFIX,xina.vip,PROXY
 HOST-SUFFIX,yahoo.com,PROXY
 HOST-SUFFIX,yahoo.net,PROXY
 HOST-SUFFIX,yimg.com,PROXY
+HOST-SUFFIX,y-os.net,PROXY
 HOST-SUFFIX,youtu.be,PROXY
 HOST-SUFFIX,youtube.be,PROXY
 HOST-SUFFIX,youtube.com,PROXY
