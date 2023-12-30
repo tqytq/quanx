@@ -17,6 +17,7 @@ HOST-SUFFIX,uk,PROXY
 HOST-SUFFIX,us,PROXY
 HOST-SUFFIX,dev,PROXY
 HOST-SUFFIX,lol,PROXY
+HOST-SUFFIX,wiki,PROXY
 HOST-SUFFIX,10why.net,PROXY
 HOST-SUFFIX,1drv.com,PROXY
 HOST-SUFFIX,1drv.ms,PROXY
@@ -219,6 +220,7 @@ HOST-SUFFIX,fdcservers.net,PROXY
 HOST-SUFFIX,featuregates.org,PROXY
 HOST-SUFFIX,fhsu.edu,PROXY
 HOST-SUFFIX,fivetran.com,PROXY
+HOST-SUFFIX,flac.ltd,PROXY
 HOST-SUFFIX,flashtalking.com,PROXY
 HOST-SUFFIX,font.im,PROXY
 HOST-SUFFIX,foursquare.com,PROXY
@@ -332,6 +334,7 @@ HOST-SUFFIX,livechatinc.com,PROXY
 HOST-SUFFIX,livekit.cloud,PROXY
 HOST-SUFFIX,llnwd.net,PROXY
 HOST-SUFFIX,llnwi.net,PROXY
+HOST-SUFFIX,lpsnmedia.net,PROXY
 HOST-SUFFIX,lumischvps.cloud,PROXY
 HOST-SUFFIX,m.me,PROXY
 HOST-SUFFIX,madewithcode.com,PROXY
@@ -561,6 +564,7 @@ HOST-SUFFIX,unfiltered.news,PROXY
 HOST-SUFFIX,unity3d.com,PROXY
 HOST-SUFFIX,unpkg.com,PROXY
 HOST-SUFFIX,usertrust.com,PROXY
+HOST-SUFFIX,uukanshu.net,PROXY
 HOST-SUFFIX,v2ex.com,PROXY
 HOST-SUFFIX,valvesoftware.com,PROXY
 HOST-SUFFIX,vercel.app,PROXY
