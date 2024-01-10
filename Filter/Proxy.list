@@ -680,6 +680,7 @@ HOST-SUFFIX,youtube-nocookie.com,PROXY
 HOST-SUFFIX,yt.be,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,yunke.fun,PROXY
+HOST-SUFFIX,nc-img.com,PROXY
 #
 IP-CIDR,172.110.32.0/21,PROXY,no-resolve
 IP-CIDR,173.194.0.0/16,PROXY,no-resolve
