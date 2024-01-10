@@ -107,6 +107,7 @@ HOST-SUFFIX,battle.net,PROXY
 HOST-SUFFIX,battlenet.com,PROXY
 HOST-SUFFIX,b-cdn.net,PROXY
 HOST-SUFFIX,bigcloud.click,PROXY
+HOST-SUFFIX,bincodes.com,PROXY
 HOST-SUFFIX,bing.com,PROXY
 HOST-SUFFIX,bing.net,PROXY
 HOST-SUFFIX,binred1.com,PROXY
@@ -295,6 +296,7 @@ HOST-SUFFIX,gumgum.com,PROXY
 HOST-SUFFIX,gvt2.com,PROXY
 HOST-SUFFIX,gwtproject.org,PROXY
 HOST-SUFFIX,hbwrapper.com,PROXY
+HOST-SUFFIX,hcaptcha.com,PROXY
 HOST-SUFFIX,heapanalytics.com,PROXY
 HOST-SUFFIX,heerosha.com,PROXY
 HOST-SUFFIX,heroku.com,PROXY
@@ -562,6 +564,7 @@ HOST-SUFFIX,stackadapt.com,PROXY
 HOST-SUFFIX,stash.wiki,PROXY
 HOST-SUFFIX,stash.ws,PROXY
 HOST-SUFFIX,stash-activation.com,PROXY
+HOST-SUFFIX,statcounter.com,PROXY
 HOST-SUFFIX,staticflickr.com,PROXY
 HOST-SUFFIX,statsig.com,PROXY
 HOST-SUFFIX,statsigapi.net,PROXY
@@ -626,6 +629,7 @@ HOST-SUFFIX,unfiltered.news,PROXY
 HOST-SUFFIX,unity3d.com,PROXY
 HOST-SUFFIX,unpkg.com,PROXY
 HOST-SUFFIX,unsplash.com,PROXY
+HOST-SUFFIX,uptimerobot.com,PROXY
 HOST-SUFFIX,usertrust.com,PROXY
 HOST-SUFFIX,uukanshu.net,PROXY
 HOST-SUFFIX,v2ex.com,PROXY
