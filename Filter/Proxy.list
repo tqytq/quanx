@@ -1,3 +1,4 @@
+HOST-SUFFIX,ac,PROXY
 HOST-SUFFIX,au,PROXY
 HOST-SUFFIX,ca,PROXY
 HOST-SUFFIX,ch,PROXY
@@ -12,25 +13,26 @@ HOST-SUFFIX,ms,PROXY
 HOST-SUFFIX,nl,PROXY
 HOST-SUFFIX,pl,PROXY
 HOST-SUFFIX,ru,PROXY
+HOST-SUFFIX,se,PROXY
 HOST-SUFFIX,sg,PROXY
 HOST-SUFFIX,sk,PROXY
+HOST-SUFFIX,st,PROXY
 HOST-SUFFIX,tw,PROXY
 HOST-SUFFIX,uk,PROXY
 HOST-SUFFIX,us,PROXY
+HOST-SUFFIX,app,PROXY
 HOST-SUFFIX,dev,PROXY
 HOST-SUFFIX,lol,PROXY
 HOST-SUFFIX,goog,PROXY
 HOST-SUFFIX,link,PROXY
 HOST-SUFFIX,wiki,PROXY
-HOST-SUFFIX,work,PROXY
-HOST-SUFFIX,network,PROXY
+HOST-SUFFIX,word,PROXY
 HOST-SUFFIX,10why.net,PROXY
 HOST-SUFFIX,1drv.com,PROXY
 HOST-SUFFIX,1e100.net,PROXY
 HOST-SUFFIX,24hbook.com,PROXY
 HOST-SUFFIX,2mdn.net,PROXY
 HOST-SUFFIX,2o7.net,PROXY
-HOST-SUFFIX,31173.se,PROXY
 HOST-SUFFIX,500px.com,PROXY
 HOST-SUFFIX,6sc.co,PROXY
 HOST-SUFFIX,6sense.com,PROXY
@@ -48,8 +50,6 @@ HOST-SUFFIX,adnxs.com,PROXY
 HOST-SUFFIX,adobe.com,PROXY
 HOST-SUFFIX,adobedtm.com,PROXY
 HOST-SUFFIX,adroll.com,PROXY
-HOST-SUFFIX,adsafeprotected.com,PROXY
-HOST-SUFFIX,adsafeprotected.com,PROXY
 HOST-SUFFIX,adsafeprotected.com,PROXY
 HOST-SUFFIX,adspower.net,PROXY
 HOST-SUFFIX,adsrvr.org,PROXY
@@ -105,7 +105,6 @@ HOST-SUFFIX,bigcloud.click,PROXY
 HOST-SUFFIX,bing.com,PROXY
 HOST-SUFFIX,bing.net,PROXY
 HOST-SUFFIX,binred1.com,PROXY
-HOST-SUFFIX,binred1.com,PROXY
 HOST-SUFFIX,bizible.com,PROXY
 HOST-SUFFIX,bizibly.com,PROXY
 HOST-SUFFIX,bkrtx.com,PROXY
@@ -128,7 +127,6 @@ HOST-SUFFIX,byspotify.com,PROXY
 HOST-SUFFIX,byteoversea.com,PROXY
 HOST-SUFFIX,cabospeed.com,PROXY
 HOST-SUFFIX,cachefly.net,PROXY
-HOST-SUFFIX,carbonads.com,PROXY
 HOST-SUFFIX,carbonads.com,PROXY
 HOST-SUFFIX,cdn77.org,PROXY
 HOST-SUFFIX,cdninstagram.com,PROXY
@@ -166,9 +164,11 @@ HOST-SUFFIX,cloudinary.com,PROXY
 HOST-SUFFIX,cloudns.net,PROXY
 HOST-SUFFIX,clouvider.net,PROXY
 HOST-SUFFIX,cms-twdigitalassets.com,PROXY
+HOST-SUFFIX,coax7nice.com,PROXY
 HOST-SUFFIX,coh.org,PROXY
 HOST-SUFFIX,company-target.com,PROXY
 HOST-SUFFIX,contabo.net,PROXY
+HOST-SUFFIX,cookielaw.org,PROXY
 HOST-SUFFIX,cookieyes.com,PROXY
 HOST-SUFFIX,covid19rx.org,PROXY
 HOST-SUFFIX,covid19-rx.org,PROXY
@@ -179,7 +179,6 @@ HOST-SUFFIX,crittercism.com,PROXY
 HOST-SUFFIX,crownpeak.com,PROXY
 HOST-SUFFIX,culturalspot.org,PROXY
 HOST-SUFFIX,custhelp.com,PROXY
-HOST-SUFFIX,cyberghost.app,PROXY
 HOST-SUFFIX,cyberghostvpn.com,PROXY
 HOST-SUFFIX,dartlang.org,PROXY
 HOST-SUFFIX,datatechone.com,PROXY
@@ -220,8 +219,6 @@ HOST-SUFFIX,everesttech.net,PROXY
 HOST-SUFFIX,evergage.com,PROXY
 HOST-SUFFIX,evergreen.com,PROXY
 HOST-SUFFIX,evgnet.com,PROXY
-HOST-SUFFIX,evidon.com,PROXY
-HOST-SUFFIX,evidon.com,PROXY
 HOST-SUFFIX,evidon.com,PROXY
 HOST-SUFFIX,expressvpn.com,PROXY
 HOST-SUFFIX,ezoic.net,PROXY
@@ -283,7 +280,6 @@ HOST-SUFFIX,googleusercontent.com,PROXY
 HOST-SUFFIX,googlevideo.com,PROXY
 HOST-SUFFIX,gravatar.com,PROXY
 HOST-SUFFIX,groundtruth.com,PROXY
-HOST-SUFFIX,groundtruth.com,PROXY
 HOST-SUFFIX,gstatic.com,PROXY
 HOST-SUFFIX,gumgum.com,PROXY
 HOST-SUFFIX,gvt2.com,PROXY
@@ -293,7 +289,6 @@ HOST-SUFFIX,heerosha.com,PROXY
 HOST-SUFFIX,heroku.com,PROXY
 HOST-SUFFIX,hockeyapp.net,PROXY
 HOST-SUFFIX,hostloc.com,PROXY
-HOST-SUFFIX,hotjar.com,PROXY
 HOST-SUFFIX,hotjar.com,PROXY
 HOST-SUFFIX,hotmail.com,PROXY
 HOST-SUFFIX,ht97ee.xyz,PROXY
@@ -321,7 +316,6 @@ HOST-SUFFIX,imgs.ovh,PROXY
 HOST-SUFFIX,inmobi.com,PROXY
 HOST-SUFFIX,instagr.am,PROXY
 HOST-SUFFIX,instagram.com,PROXY
-HOST-SUFFIX,inter1ads.com,PROXY
 HOST-SUFFIX,inter1ads.com,PROXY
 HOST-SUFFIX,intercomcdn.com,PROXY
 HOST-SUFFIX,ip-api.com,PROXY
@@ -406,16 +400,17 @@ HOST-SUFFIX,mutinycdn.com,PROXY
 HOST-SUFFIX,mux.com,PROXY
 HOST-SUFFIX,myoctocat.com,PROXY
 HOST-SUFFIX,mzstatic.com,PROXY
+HOST-SUFFIX,namecheap.com,PROXY
 HOST-SUFFIX,netflix.com,PROXY
 HOST-SUFFIX,netflix.net,PROXY
 HOST-SUFFIX,netmarble.com,PROXY
+HOST-SUFFIX,newrelic.com,PROXY
 HOST-SUFFIX,nflxext.com,PROXY
 HOST-SUFFIX,nflximg.com,PROXY
 HOST-SUFFIX,nflximg.net,PROXY
 HOST-SUFFIX,nflxso.net,PROXY
 HOST-SUFFIX,nflxvideo.net,PROXY
 HOST-SUFFIX,nianticlabs.com,PROXY
-HOST-SUFFIX,nicegram.app,PROXY
 HOST-SUFFIX,nicegram.cloud,PROXY
 HOST-SUFFIX,nimhuemark.com,PROXY
 HOST-SUFFIX,nodeseek.com,PROXY
@@ -424,6 +419,7 @@ HOST-SUFFIX,nordvpn.com,PROXY
 HOST-SUFFIX,npm.community,PROXY
 HOST-SUFFIX,npmjs.com,PROXY
 HOST-SUFFIX,npmjs.org,PROXY
+HOST-SUFFIX,nr-data.net,PROXY
 HOST-SUFFIX,nssurge.com,PROXY
 HOST-SUFFIX,oaistatic.com,PROXY
 HOST-SUFFIX,oaiusercontent.com,PROXY
@@ -456,7 +452,6 @@ HOST-SUFFIX,oss-cn-hongkong.aliyuncs.com,PROXY
 HOST-SUFFIX,outlook.com,PROXY
 HOST-SUFFIX,pangle-ads.com,PROXY
 HOST-SUFFIX,pardot.com,PROXY
-HOST-SUFFIX,pardot.com,PROXY
 HOST-SUFFIX,paypal.com,PROXY
 HOST-SUFFIX,paypalobjects.com,PROXY
 HOST-SUFFIX,pdst.fm,PROXY
@@ -480,7 +475,7 @@ HOST-SUFFIX,pq.hosting,PROXY
 HOST-SUFFIX,prreqcroab.icu,PROXY
 HOST-SUFFIX,pscdn.co,PROXY
 HOST-SUFFIX,pscp.tv,PROXY
-HOST-SUFFIX,pubmatic.com,PROXY
+HOST-SUFFIX,pub.network,PROXY
 HOST-SUFFIX,pubmatic.com,PROXY
 HOST-SUFFIX,pubmine.com,PROXY
 HOST-SUFFIX,pubnub.com,PROXY
@@ -491,7 +486,7 @@ HOST-SUFFIX,qualified.com,PROXY
 HOST-SUFFIX,qualtrics.com,PROXY
 HOST-SUFFIX,quantcast.com,PROXY
 HOST-SUFFIX,quantcount.com,PROXY
-HOST-SUFFIX,quantumult.app,PROXY
+HOST-SUFFIX,quora.com,PROXY
 HOST-SUFFIX,qvdt3feo.com,PROXY
 HOST-SUFFIX,qwilt.com,PROXY
 HOST-SUFFIX,rawgit.com,PROXY
@@ -561,11 +556,11 @@ HOST-SUFFIX,steamstatic.com,PROXY
 HOST-SUFFIX,steamusercontent.com,PROXY
 HOST-SUFFIX,strikingly.com,PROXY
 HOST-SUFFIX,stripe.com,PROXY
+HOST-SUFFIX,stripe.network,PROXY
 HOST-SUFFIX,sun.com,PROXY
 HOST-SUFFIX,surfshark.com,PROXY
 HOST-SUFFIX,surfsharkdns.com,PROXY
 HOST-SUFFIX,surge-activation.com,PROXY
-HOST-SUFFIX,swiftgram.app,PROXY
 HOST-SUFFIX,t.co,PROXY
 HOST-SUFFIX,taboola.com,PROXY
 HOST-SUFFIX,tealiumiq.com,PROXY
@@ -618,7 +613,6 @@ HOST-SUFFIX,usertrust.com,PROXY
 HOST-SUFFIX,uukanshu.net,PROXY
 HOST-SUFFIX,v2ex.com,PROXY
 HOST-SUFFIX,valvesoftware.com,PROXY
-HOST-SUFFIX,vercel.app,PROXY
 HOST-SUFFIX,videodelivery.net,PROXY
 HOST-SUFFIX,vikacg.com,PROXY
 HOST-SUFFIX,vine.co,PROXY
@@ -630,8 +624,6 @@ HOST-SUFFIX,vk.me,PROXY
 HOST-SUFFIX,vkcache.com,PROXY
 HOST-SUFFIX,vk-cdn.me,PROXY
 HOST-SUFFIX,vk-cdn.net,PROXY
-HOST-SUFFIX,vkgo.app,PROXY
-HOST-SUFFIX,vklive.app,PROXY
 HOST-SUFFIX,vk-portal.net,PROXY
 HOST-SUFFIX,vwo.com,PROXY
 HOST-SUFFIX,waqi.info,PROXY
@@ -642,7 +634,6 @@ HOST-SUFFIX,weatherchannel,PROXY
 HOST-SUFFIX,webmproject.org,PROXY
 HOST-SUFFIX,webrtc.org,PROXY
 HOST-SUFFIX,webseitenserver.com,PROXY
-HOST-SUFFIX,website-files.com,PROXY
 HOST-SUFFIX,website-files.com,PROXY
 HOST-SUFFIX,weglot.com,PROXY
 HOST-SUFFIX,wenjie.org,PROXY
@@ -695,7 +686,6 @@ IP-CIDR,103.246.56.0/22,PROXY,no-resolve
 IP-CIDR,103.27.148.0/22,PROXY,no-resolve
 IP-CIDR,103.31.4.0/22,PROXY,no-resolve
 IP-CIDR,103.4.96.0/22,PROXY,no-resolve
-IP-CIDR,104.16.0.0/12,PROXY,no-resolve
 IP-CIDR,108.162.192.0/18,PROXY,no-resolve
 IP-CIDR,109.239.140.0/24,PROXY,no-resolve
 IP-CIDR,110.76.140.0/22,PROXY,no-resolve
@@ -811,4 +801,3 @@ IP-ASN,395954,PROXY,no-resolve
 IP-ASN,16625,PROXY,no-resolve
 IP-ASN,14618,PROXY,no-resolve
 IP-ASN,16509,PROXY,no-resolve
-IP-ASN,54113,PROXY,no-resolve
