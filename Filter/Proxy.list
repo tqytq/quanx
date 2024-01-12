@@ -244,6 +244,7 @@ HOST-SUFFIX,eloquapreview.com,PROXY
 HOST-SUFFIX,en25.com,PROXY
 HOST-SUFFIX,eth.limo,PROXY
 HOST-SUFFIX,eu.org,PROXY
+HOST-SUFFIX,evan888.top,PROXY
 HOST-SUFFIX,everestjs.net,PROXY
 HOST-SUFFIX,everesttech.net,PROXY
 HOST-SUFFIX,evergage.com,PROXY
@@ -400,6 +401,7 @@ HOST-SUFFIX,livechatinc.com,PROXY
 HOST-SUFFIX,llnwd.net,PROXY
 HOST-SUFFIX,llnwi.net,PROXY
 HOST-SUFFIX,longuarthot.com,PROXY
+HOST-SUFFIX,lookbookhq.com,PROXY
 HOST-SUFFIX,lpsnmedia.net,PROXY
 HOST-SUFFIX,m.me,PROXY
 HOST-SUFFIX,madewithcode.com,PROXY
@@ -454,6 +456,7 @@ HOST-SUFFIX,npm.community,PROXY
 HOST-SUFFIX,npmjs.com,PROXY
 HOST-SUFFIX,npmjs.org,PROXY
 HOST-SUFFIX,nr-data.net,PROXY
+HOST-SUFFIX,nsloon.com,PROXY
 HOST-SUFFIX,nssurge.com,PROXY
 HOST-SUFFIX,oaistatic.com,PROXY
 HOST-SUFFIX,oaiusercontent.com,PROXY
@@ -488,6 +491,7 @@ HOST-SUFFIX,outbrain.com,PROXY
 HOST-SUFFIX,outlook.com,PROXY
 HOST-SUFFIX,pangle-ads.com,PROXY
 HOST-SUFFIX,pardot.com,PROXY
+HOST-SUFFIX,pathfactory.com,PROXY
 HOST-SUFFIX,paypal.com,PROXY
 HOST-SUFFIX,paypalobjects.com,PROXY
 HOST-SUFFIX,pdst.fm,PROXY
@@ -521,6 +525,7 @@ HOST-SUFFIX,qualtrics.com,PROXY
 HOST-SUFFIX,quantcast.com,PROXY
 HOST-SUFFIX,quantcount.com,PROXY
 HOST-SUFFIX,quantserve.com,PROXY
+HOST-SUFFIX,quantummetric.com,PROXY
 HOST-SUFFIX,quora.com,PROXY
 HOST-SUFFIX,qvdt3feo.com,PROXY
 HOST-SUFFIX,qwilt.com,PROXY
@@ -600,6 +605,8 @@ HOST-SUFFIX,sun.com,PROXY
 HOST-SUFFIX,surfshark.com,PROXY
 HOST-SUFFIX,surfsharkdns.com,PROXY
 HOST-SUFFIX,surge-activation.com,PROXY
+HOST-SUFFIX,swiftype.com,PROXY
+HOST-SUFFIX,swiftypecdn.com,PROXY
 HOST-SUFFIX,t.co,PROXY
 HOST-SUFFIX,taboola.com,PROXY
 HOST-SUFFIX,tealiumiq.com,PROXY
@@ -660,6 +667,8 @@ HOST-SUFFIX,valvesoftware.com,PROXY
 HOST-SUFFIX,videodelivery.net,PROXY
 HOST-SUFFIX,vikacg.com,PROXY
 HOST-SUFFIX,vime50.com,PROXY
+HOST-SUFFIX,vimeo.com,PROXY
+HOST-SUFFIX,vimeocdn.com,PROXY
 HOST-SUFFIX,vine.co,PROXY
 HOST-SUFFIX,visualwebsiteoptimizer.com,PROXY
 HOST-SUFFIX,vk.com,PROXY
@@ -719,6 +728,7 @@ HOST-SUFFIX,youtube-nocookie.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,yunke.fun,PROXY
 HOST-SUFFIX,zaobao.com,PROXY
+HOST-SUFFIX,zi-scripts.com,PROXY
 #
 IP-CIDR,172.110.32.0/21,PROXY
 IP-CIDR,173.194.0.0/16,PROXY
