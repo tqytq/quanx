@@ -46,6 +46,7 @@ HOST-SUFFIX,tools,PROXY
 HOST-SUFFIX,network,PROXY
 HOST-SUFFIX,10why.net,PROXY
 HOST-SUFFIX,1drv.com,PROXY
+HOST-SUFFIX,0sugaradded.com,PROXY
 HOST-SUFFIX,1e100.net,PROXY
 HOST-SUFFIX,24hbook.com,PROXY
 HOST-SUFFIX,2mdn.net,PROXY
@@ -88,9 +89,11 @@ HOST-SUFFIX,algolianet.com,PROXY
 HOST-SUFFIX,altmetric.com,PROXY
 HOST-SUFFIX,amazon.com,PROXY
 HOST-SUFFIX,amazon.jobs,PROXY
+HOST-SUFFIX,amazon-adsystem.com,PROXY
 HOST-SUFFIX,amazonaws.com,PROXY
 HOST-SUFFIX,amazontools.com,PROXY
 HOST-SUFFIX,amazontours.com,PROXY
+HOST-SUFFIX,amazontrust.com,PROXY
 HOST-SUFFIX,amazonuniversity.jobs,PROXY
 HOST-SUFFIX,amazonvideo.com,PROXY
 HOST-SUFFIX,amplitude.com,PROXY
@@ -144,6 +147,7 @@ HOST-SUFFIX,browser-intake-datadoghq.com,PROXY
 HOST-SUFFIX,browserleaks.com,PROXY
 HOST-SUFFIX,browserleaks.org,PROXY
 HOST-SUFFIX,browserscan.net,PROXY
+HOST-SUFFIX,browsiprod.com,PROXY
 HOST-SUFFIX,bttrack.com,PROXY
 HOST-SUFFIX,byspotify.com,PROXY
 HOST-SUFFIX,byteoversea.com,PROXY
@@ -245,6 +249,7 @@ HOST-SUFFIX,eloquapreview.com,PROXY
 HOST-SUFFIX,en25.com,PROXY
 HOST-SUFFIX,eth.limo,PROXY
 HOST-SUFFIX,eu.org,PROXY
+HOST-SUFFIX,eu-1-id5-sync.com,PROXY
 HOST-SUFFIX,evan888.top,PROXY
 HOST-SUFFIX,everestjs.net,PROXY
 HOST-SUFFIX,everesttech.net,PROXY
@@ -273,6 +278,7 @@ HOST-SUFFIX,fhsu.edu,PROXY
 HOST-SUFFIX,fivetran.com,PROXY
 HOST-SUFFIX,flac.ltd,PROXY
 HOST-SUFFIX,flashtalking.com,PROXY
+HOST-SUFFIX,flux-cdn.com,PROXY
 HOST-SUFFIX,fly2cn.top,PROXY
 HOST-SUFFIX,font.im,PROXY
 HOST-SUFFIX,force.com,PROXY
@@ -322,6 +328,7 @@ HOST-SUFFIX,gwtproject.org,PROXY
 HOST-SUFFIX,heapanalytics.com,PROXY
 HOST-SUFFIX,heerosha.com,PROXY
 HOST-SUFFIX,heroku.com,PROXY
+HOST-SUFFIX,hinative.com,PROXY
 HOST-SUFFIX,hockeyapp.net,PROXY
 HOST-SUFFIX,hostloc.com,PROXY
 HOST-SUFFIX,hotjar.com,PROXY
@@ -560,6 +567,7 @@ HOST-SUFFIX,scdn.co,PROXY
 HOST-SUFFIX,scorecardresearch.com,PROXY
 HOST-SUFFIX,sc-static.net,PROXY
 HOST-SUFFIX,seattlespheres.com,PROXY
+HOST-SUFFIX,secomtrust.net,PROXY
 HOST-SUFFIX,semasio.net,PROXY
 HOST-SUFFIX,sentry-cdn.com,PROXY
 HOST-SUFFIX,serv00.com,PROXY
@@ -570,6 +578,7 @@ HOST-SUFFIX,slack.com,PROXY
 HOST-SUFFIX,smartadserver.com,PROXY
 HOST-SUFFIX,smartlook.com,PROXY
 HOST-SUFFIX,smartmailcloud.com,PROXY
+HOST-SUFFIX,smartnews-ads.com,PROXY
 HOST-SUFFIX,s-microsoft.com,PROXY
 HOST-SUFFIX,sox.rs,PROXY
 HOST-SUFFIX,sphdigital.com,PROXY
@@ -710,6 +719,7 @@ HOST-SUFFIX,windows.net,PROXY
 HOST-SUFFIX,wingify.com,PROXY
 HOST-SUFFIX,wistia.net,PROXY
 HOST-SUFFIX,wordpress.com,PROXY
+HOST-SUFFIX,wordreference.com,PROXY
 HOST-SUFFIX,worldssl.net,PROXY
 HOST-SUFFIX,wp.com,PROXY
 HOST-SUFFIX,wsimg.com,PROXY
