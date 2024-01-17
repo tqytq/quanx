@@ -134,6 +134,7 @@ HOST-SUFFIX,battlenet.com,PROXY
 HOST-SUFFIX,bbc.com,PROXY
 HOST-SUFFIX,b-cdn.net,PROXY
 HOST-SUFFIX,bigcloud.click,PROXY
+HOST-SUFFIX,bincodes.com,PROXY
 HOST-SUFFIX,bing.com,PROXY
 HOST-SUFFIX,bing.net,PROXY
 HOST-SUFFIX,binred1.com,PROXY
@@ -334,6 +335,7 @@ HOST-SUFFIX,gstatic.com,PROXY
 HOST-SUFFIX,gumgum.com,PROXY
 HOST-SUFFIX,gvt2.com,PROXY
 HOST-SUFFIX,gwtproject.org,PROXY
+HOST-SUFFIX,hcaptcha.com,PROXY
 HOST-SUFFIX,heapanalytics.com,PROXY
 HOST-SUFFIX,heerosha.com,PROXY
 HOST-SUFFIX,hemaha.com,PROXY
@@ -619,6 +621,7 @@ HOST-SUFFIX,stackadapt.com,PROXY
 HOST-SUFFIX,stash.wiki,PROXY
 HOST-SUFFIX,stash.ws,PROXY
 HOST-SUFFIX,stash-activation.com,PROXY
+HOST-SUFFIX,statcounter.com,PROXY
 HOST-SUFFIX,statsig.com,PROXY
 HOST-SUFFIX,statsigapi.net,PROXY
 HOST-SUFFIX,steam-chat.com,PROXY
@@ -745,7 +748,6 @@ HOST-SUFFIX,wsimg.com,PROXY
 HOST-SUFFIX,wujinpp.com,PROXY
 HOST-SUFFIX,x.com,PROXY
 HOST-SUFFIX,xad.con,PROXY
-HOST-SUFFIX,xina.vip,PROXY
 HOST-SUFFIX,xmkczs.com,PROXY
 HOST-SUFFIX,yahoo.com,PROXY
 HOST-SUFFIX,yahoo.net,PROXY
@@ -759,7 +761,6 @@ HOST-SUFFIX,youtubegaming.com,PROXY
 HOST-SUFFIX,youtubekids.com,PROXY
 HOST-SUFFIX,youtube-nocookie.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
-HOST-SUFFIX,yunke.fun,PROXY
 HOST-SUFFIX,zaobao.com,PROXY
 HOST-SUFFIX,zi-scripts.com,PROXY
 #
