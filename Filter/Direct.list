@@ -111,6 +111,7 @@ HOST-SUFFIX,bytedance.net,DIRECT
 HOST-SUFFIX,bytedns.net,DIRECT
 HOST-SUFFIX,bytednsdoc.com,DIRECT
 HOST-SUFFIX,byted-static.com,DIRECT
+HOST-SUFFIX,byteeffecttos.com,DIRECT
 HOST-SUFFIX,bytegecko.com,DIRECT
 HOST-SUFFIX,bytegoofy.com,DIRECT
 HOST-SUFFIX,byteimg.com,DIRECT
@@ -186,6 +187,7 @@ HOST-SUFFIX,ecitic.com,DIRECT
 HOST-SUFFIX,ecombdapi.com,DIRECT
 HOST-SUFFIX,ecombdimg.com,DIRECT
 HOST-SUFFIX,ecombdpage.com,DIRECT
+HOST-SUFFIX,ecombdstatic.com,DIRECT
 HOST-SUFFIX,ele.me,DIRECT
 HOST-SUFFIX,element-plus.org,DIRECT
 HOST-SUFFIX,epicgames.com,DIRECT
@@ -407,8 +409,10 @@ HOST-SUFFIX,ruguoapp.com,DIRECT
 HOST-SUFFIX,runoob.com,DIRECT
 HOST-SUFFIX,sandai.net,DIRECT
 HOST-SUFFIX,sankuai.com,DIRECT
+HOST-SUFFIX,searchpstatp.com,DIRECT
 HOST-SUFFIX,segmentfault.com,DIRECT
 HOST-SUFFIX,sf-express.com,DIRECT
+HOST-SUFFIX,shujupie.com,DIRECT
 HOST-SUFFIX,shumilou.net,DIRECT
 HOST-SUFFIX,simplecd.me,DIRECT
 HOST-SUFFIX,sina.com,DIRECT
@@ -489,6 +493,7 @@ HOST-SUFFIX,videocc.net,DIRECT
 HOST-SUFFIX,vip.com,DIRECT
 HOST-SUFFIX,vipstatic.com,DIRECT
 HOST-SUFFIX,vivo.com,DIRECT
+HOST-SUFFIX,volces.com,DIRECT
 HOST-SUFFIX,volcsirius.com,DIRECT
 HOST-SUFFIX,wandoujia.com,DIRECT
 HOST-SUFFIX,weather.com,DIRECT
