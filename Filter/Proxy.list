@@ -14,7 +14,9 @@ HOST-SUFFIX,io,PROXY
 HOST-SUFFIX,jp,PROXY
 HOST-SUFFIX,kr,PROXY
 HOST-SUFFIX,lv,PROXY
+HOST-SUFFIX,me,PROXY
 HOST-SUFFIX,ms,PROXY
+HOST-SUFFIX,my,PROXY
 HOST-SUFFIX,nl,PROXY
 HOST-SUFFIX,pe,PROXY
 HOST-SUFFIX,pl,PROXY
@@ -125,7 +127,6 @@ HOST-SUFFIX,atlantic-fisheries.net,PROXY
 HOST-SUFFIX,auryc.com,PROXY
 HOST-SUFFIX,auth0.com,PROXY
 HOST-SUFFIX,autodraw.com,PROXY
-HOST-SUFFIX,awstrack.me,PROXY
 HOST-SUFFIX,azure.com,PROXY
 HOST-SUFFIX,azureedge.net,PROXY
 HOST-SUFFIX,azurefd.net,PROXY
@@ -277,7 +278,6 @@ HOST-SUFFIX,fanatical.com,PROXY
 HOST-SUFFIX,fastly.net,PROXY
 HOST-SUFFIX,fastly-analytics.com,PROXY
 HOST-SUFFIX,fb.com,PROXY
-HOST-SUFFIX,fb.me,PROXY
 HOST-SUFFIX,fbaddins.com,PROXY
 HOST-SUFFIX,fbcdn.com,PROXY
 HOST-SUFFIX,fbcdn.net,PROXY
@@ -416,7 +416,6 @@ HOST-SUFFIX,liangzipic.com,PROXY
 HOST-SUFFIX,librespeed.org,PROXY
 HOST-SUFFIX,licdn.com,PROXY
 HOST-SUFFIX,lin.ee,PROXY
-HOST-SUFFIX,line.me,PROXY
 HOST-SUFFIX,line-apps.com,PROXY
 HOST-SUFFIX,line-cdn.net,PROXY
 HOST-SUFFIX,line-scdn.net,PROXY
@@ -429,7 +428,6 @@ HOST-SUFFIX,longuarthot.com,PROXY
 HOST-SUFFIX,lookbookhq.com,PROXY
 HOST-SUFFIX,lpsnmedia.net,PROXY
 HOST-SUFFIX,lzzyimg.com,PROXY
-HOST-SUFFIX,m.me,PROXY
 HOST-SUFFIX,madewithcode.com,PROXY
 HOST-SUFFIX,mailjet.com,PROXY
 HOST-SUFFIX,maimn.com,PROXY
@@ -480,6 +478,7 @@ HOST-SUFFIX,nianticlabs.com,PROXY
 HOST-SUFFIX,nimhuemark.com,PROXY
 HOST-SUFFIX,nodeseek.com,PROXY
 HOST-SUFFIX,noip.com,PROXY
+HOST-SUFFIX,nordcdn.com,PROXY
 HOST-SUFFIX,nordvpn.com,PROXY
 HOST-SUFFIX,npm.community,PROXY
 HOST-SUFFIX,npmjs.com,PROXY
@@ -508,6 +507,7 @@ HOST-SUFFIX,oopaya.com,PROXY
 HOST-SUFFIX,openai.com,PROXY
 HOST-SUFFIX,opensource.guide,PROXY
 HOST-SUFFIX,openspeed.org,PROXY
+HOST-SUFFIX,openstreetmap.org,PROXY
 HOST-SUFFIX,oracle,PROXY
 HOST-SUFFIX,oracle.com,PROXY
 HOST-SUFFIX,oraclecloud.com,PROXY
@@ -618,6 +618,7 @@ HOST-SUFFIX,spotifyjobs.com,PROXY
 HOST-SUFFIX,sprig.com,PROXY
 HOST-SUFFIX,squarespace.com,PROXY
 HOST-SUFFIX,squarespace-cdn.com,PROXY
+HOST-SUFFIX,squareup.com,PROXY
 HOST-SUFFIX,ss-cdn.com,PROXY
 HOST-SUFFIX,ssl-images-amazon.com,PROXY
 HOST-SUFFIX,sspanel.net,PROXY
@@ -712,9 +713,7 @@ HOST-SUFFIX,vine.co,PROXY
 HOST-SUFFIX,visualwebsiteoptimizer.com,PROXY
 HOST-SUFFIX,vk.com,PROXY
 HOST-SUFFIX,vk.design,PROXY
-HOST-SUFFIX,vk.me,PROXY
 HOST-SUFFIX,vkcache.com,PROXY
-HOST-SUFFIX,vk-cdn.me,PROXY
 HOST-SUFFIX,vk-cdn.net,PROXY
 HOST-SUFFIX,vk-portal.net,PROXY
 HOST-SUFFIX,vwo.com,PROXY
