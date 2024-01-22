@@ -67,6 +67,7 @@ HOST-SUFFIX,allawno.com,DIRECT
 HOST-SUFFIX,allawntech.com,DIRECT
 HOST-SUFFIX,amap.com,DIRECT
 HOST-SUFFIX,amemv.com,DIRECT
+HOST-SUFFIX,anticheatexpert.com,DIRECT
 HOST-SUFFIX,appsimg.com,DIRECT
 HOST-SUFFIX,appvipshop.com,DIRECT
 HOST-SUFFIX,autonavi.com,DIRECT
@@ -113,6 +114,7 @@ HOST-SUFFIX,byted-static.com,DIRECT
 HOST-SUFFIX,bytegecko.com,DIRECT
 HOST-SUFFIX,bytegoofy.com,DIRECT
 HOST-SUFFIX,byteimg.com,DIRECT
+HOST-SUFFIX,bytemaimg.com,DIRECT
 HOST-SUFFIX,byteoversea.com,DIRECT
 HOST-SUFFIX,bytescm.com,DIRECT
 HOST-SUFFIX,bytetcc.com,DIRECT
@@ -145,6 +147,7 @@ HOST-SUFFIX,coolapk.com,DIRECT
 HOST-SUFFIX,coolapkmarket.com,DIRECT
 HOST-SUFFIX,csdn.net,DIRECT
 HOST-SUFFIX,ctrip.com,DIRECT
+HOST-SUFFIX,dailygn.com,DIRECT
 HOST-SUFFIX,dangdang.com,DIRECT
 HOST-SUFFIX,dcarapi.com,DIRECT
 HOST-SUFFIX,dcdapp.com,DIRECT
@@ -202,6 +205,8 @@ HOST-SUFFIX,frdic.com,DIRECT
 HOST-SUFFIX,fresh-ideas.cc,DIRECT
 HOST-SUFFIX,ganji.com,DIRECT
 HOST-SUFFIX,ganjistatic1.com,DIRECT
+HOST-SUFFIX,gcloudgbs.com,DIRECT
+HOST-SUFFIX,gcloudsdk.com,DIRECT
 HOST-SUFFIX,geetest.com,DIRECT
 HOST-SUFFIX,geilicdn.com,DIRECT
 HOST-SUFFIX,ghpym.com,DIRECT
@@ -484,6 +489,7 @@ HOST-SUFFIX,videocc.net,DIRECT
 HOST-SUFFIX,vip.com,DIRECT
 HOST-SUFFIX,vipstatic.com,DIRECT
 HOST-SUFFIX,vivo.com,DIRECT
+HOST-SUFFIX,volcsirius.com,DIRECT
 HOST-SUFFIX,wandoujia.com,DIRECT
 HOST-SUFFIX,weather.com,DIRECT
 HOST-SUFFIX,wechat.com,DIRECT
