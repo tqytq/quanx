@@ -44,6 +44,7 @@ HOST-SUFFIX,life,PROXY
 HOST-SUFFIX,link,PROXY
 HOST-SUFFIX,love,PROXY
 HOST-SUFFIX,page,PROXY
+HOST-SUFFIX,plus,PROXY
 HOST-SUFFIX,wiki,PROXY
 HOST-SUFFIX,work,PROXY
 HOST-SUFFIX,cloud,PROXY
@@ -292,6 +293,7 @@ HOST-SUFFIX,flashtalking.com,PROXY
 HOST-SUFFIX,flux-cdn.com,PROXY
 HOST-SUFFIX,fly2cn.top,PROXY
 HOST-SUFFIX,font.im,PROXY
+HOST-SUFFIX,fontawesome.com,PROXY
 HOST-SUFFIX,force.com,PROXY
 HOST-SUFFIX,fortyphlosiona.com,PROXY
 HOST-SUFFIX,foursquare.com,PROXY
@@ -540,6 +542,7 @@ HOST-SUFFIX,pornhub.com,PROXY
 HOST-SUFFIX,pornhubpremium.com,PROXY
 HOST-SUFFIX,pq.hosting,PROXY
 HOST-SUFFIX,privacy-mgmt.com,PROXY
+HOST-SUFFIX,producthunt.com,PROXY
 HOST-SUFFIX,prreqcroab.icu,PROXY
 HOST-SUFFIX,pscdn.co,PROXY
 HOST-SUFFIX,pscp.tv,PROXY
@@ -632,6 +635,7 @@ HOST-SUFFIX,steampowered.com,PROXY
 HOST-SUFFIX,steamstatic.com,PROXY
 HOST-SUFFIX,steamusercontent.com,PROXY
 HOST-SUFFIX,strikingly.com,PROXY
+HOST-SUFFIX,strikinglycdn.com,PROXY
 HOST-SUFFIX,stripe.com,PROXY
 HOST-SUFFIX,sun.com,PROXY
 HOST-SUFFIX,surfshark.com,PROXY
@@ -715,7 +719,6 @@ HOST-SUFFIX,vk-cdn.net,PROXY
 HOST-SUFFIX,vk-portal.net,PROXY
 HOST-SUFFIX,vwo.com,PROXY
 HOST-SUFFIX,waqi.info,PROXY
-HOST-SUFFIX,warp.plus,PROXY
 HOST-SUFFIX,waveprotocol.org,PROXY
 HOST-SUFFIX,weather.com,PROXY
 HOST-SUFFIX,weatherchannel,PROXY
