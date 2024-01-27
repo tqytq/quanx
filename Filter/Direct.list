@@ -46,6 +46,7 @@ HOST-SUFFIX,aixifan.com,DIRECT
 HOST-SUFFIX,algocasts.io,DIRECT
 HOST-SUFFIX,aliapp.org,DIRECT
 HOST-SUFFIX,alibaba.com,DIRECT
+HOST-SUFFIX,alibabachengdun.com,DIRECT
 HOST-SUFFIX,alibabacloud.com,DIRECT
 HOST-SUFFIX,alibabausercontent.com,DIRECT
 HOST-SUFFIX,alicdn.com,DIRECT
@@ -116,6 +117,7 @@ HOST-SUFFIX,bytegecko.com,DIRECT
 HOST-SUFFIX,bytegoofy.com,DIRECT
 HOST-SUFFIX,byteimg.com,DIRECT
 HOST-SUFFIX,bytemaimg.com,DIRECT
+HOST-SUFFIX,bytemastatic.com,DIRECT
 HOST-SUFFIX,byteoversea.com,DIRECT
 HOST-SUFFIX,bytescm.com,DIRECT
 HOST-SUFFIX,bytetcc.com,DIRECT
@@ -448,6 +450,7 @@ HOST-SUFFIX,taobao.com,DIRECT
 HOST-SUFFIX,taobaocdn.com,DIRECT
 HOST-SUFFIX,tbcache.com,DIRECT
 HOST-SUFFIX,tbcdn.com,DIRECT
+HOST-SUFFIX,tcdnos.com,DIRECT
 HOST-SUFFIX,tencent.com,DIRECT
 HOST-SUFFIX,tencent-cloud.net,DIRECT
 HOST-SUFFIX,tencentmind.com,DIRECT
@@ -475,6 +478,7 @@ HOST-SUFFIX,toutiaohao.com,DIRECT
 HOST-SUFFIX,toutiaohao.net,DIRECT
 HOST-SUFFIX,toutiaoimg.com,DIRECT
 HOST-SUFFIX,toutiaopage.com,DIRECT
+HOST-SUFFIX,toutiaostatic.com,DIRECT
 HOST-SUFFIX,trip.com,DIRECT
 HOST-SUFFIX,ttmeiju.com,DIRECT
 HOST-SUFFIX,tudou.com,DIRECT
