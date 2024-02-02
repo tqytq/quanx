@@ -47,6 +47,7 @@ HOST-SUFFIX,algocasts.io,DIRECT
 HOST-SUFFIX,aliapp.org,DIRECT
 HOST-SUFFIX,alibaba.com,DIRECT
 HOST-SUFFIX,alibabachengdun.com,DIRECT
+HOST-SUFFIX,alibabachengdun.net,DIRECT
 HOST-SUFFIX,alibabacloud.com,DIRECT
 HOST-SUFFIX,alibabausercontent.com,DIRECT
 HOST-SUFFIX,alicdn.com,DIRECT
@@ -169,6 +170,7 @@ HOST-SUFFIX,doubo03.com,DIRECT
 HOST-SUFFIX,doupay.com,DIRECT
 HOST-SUFFIX,douyin.com,DIRECT
 HOST-SUFFIX,douyincdn.com,DIRECT
+HOST-SUFFIX,douyinec.com,DIRECT
 HOST-SUFFIX,douyinliving.com,DIRECT
 HOST-SUFFIX,douyinpic.com,DIRECT
 HOST-SUFFIX,douyinstatic.com,DIRECT
@@ -446,6 +448,7 @@ HOST-SUFFIX,suning.com,DIRECT
 HOST-SUFFIX,synology.com,DIRECT
 HOST-SUFFIX,taihe.com,DIRECT
 HOST-SUFFIX,tangdou.com,DIRECT
+HOST-SUFFIX,tanx.com,DIRECT
 HOST-SUFFIX,taobao.com,DIRECT
 HOST-SUFFIX,taobaocdn.com,DIRECT
 HOST-SUFFIX,tbcache.com,DIRECT
