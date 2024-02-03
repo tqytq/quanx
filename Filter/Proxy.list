@@ -116,6 +116,8 @@ HOST-SUFFIX,amazonvideo.com,PROXY
 HOST-SUFFIX,amplitude.com,PROXY
 HOST-SUFFIX,ampproject.org,PROXY
 HOST-SUFFIX,anthropic.com,PROXY
+HOST-SUFFIX,appsflyer.com,PROXY
+HOST-SUFFIX,appsflyersdk.com,PROXY
 HOST-SUFFIX,appspot.com,PROXY
 HOST-SUFFIX,app-us1.com,PROXY
 HOST-SUFFIX,aqicn.org,PROXY
@@ -206,6 +208,7 @@ HOST-SUFFIX,cloudflarestream.com,PROXY
 HOST-SUFFIX,cloudflaretest.com,PROXY
 HOST-SUFFIX,cloudflarewarp.com,PROXY
 HOST-SUFFIX,cloudfront.net,PROXY
+HOST-SUFFIX,cloudfunctions.net,PROXY
 HOST-SUFFIX,cloudinary.com,PROXY
 HOST-SUFFIX,cloudns.net,PROXY
 HOST-SUFFIX,clouvider.net,PROXY
@@ -510,6 +513,7 @@ HOST-SUFFIX,omtrdc.net,PROXY
 HOST-SUFFIX,onclusive.com,PROXY
 HOST-SUFFIX,onedrive.com,PROXY
 HOST-SUFFIX,onenote.com,PROXY
+HOST-SUFFIX,onesignal.com,PROXY
 HOST-SUFFIX,onetrust.com,PROXY
 HOST-SUFFIX,online-metrix.net,PROXY
 HOST-SUFFIX,ooklaserver.net,PROXY
@@ -766,6 +770,7 @@ HOST-SUFFIX,xad.con,PROXY
 HOST-SUFFIX,xmkczs.com,PROXY
 HOST-SUFFIX,yahoo.com,PROXY
 HOST-SUFFIX,yahoo.net,PROXY
+HOST-SUFFIX,yandex.net,PROXY
 HOST-SUFFIX,yeshayun.com,PROXY
 HOST-SUFFIX,yimg.com,PROXY
 HOST-SUFFIX,y-os.net,PROXY
