@@ -431,6 +431,7 @@ HOST-SUFFIX,lencr.org,PROXY
 HOST-SUFFIX,liangzipic.com,PROXY
 HOST-SUFFIX,librespeed.org,PROXY
 HOST-SUFFIX,licdn.com,PROXY
+HOST-SUFFIX,limneos.net,PROXY
 HOST-SUFFIX,lin.ee,PROXY
 HOST-SUFFIX,line-apps.com,PROXY
 HOST-SUFFIX,line-cdn.net,PROXY
@@ -578,6 +579,7 @@ HOST-SUFFIX,quickper.com,PROXY
 HOST-SUFFIX,quora.com,PROXY
 HOST-SUFFIX,qvdt3feo.com,PROXY
 HOST-SUFFIX,qwilt.com,PROXY
+HOST-SUFFIX,rapidssl.com,PROXY
 HOST-SUFFIX,rawgit.com,PROXY
 HOST-SUFFIX,rawgithub.com,PROXY
 HOST-SUFFIX,readcube.com,PROXY
@@ -608,6 +610,7 @@ HOST-SUFFIX,scorecardresearch.com,PROXY
 HOST-SUFFIX,sc-static.net,PROXY
 HOST-SUFFIX,seattlespheres.com,PROXY
 HOST-SUFFIX,secomtrust.net,PROXY
+HOST-SUFFIX,sectigo.com,PROXY
 HOST-SUFFIX,semasio.net,PROXY
 HOST-SUFFIX,sentry-cdn.com,PROXY
 HOST-SUFFIX,serv00.com,PROXY
