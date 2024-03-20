@@ -223,6 +223,7 @@ HOST-SUFFIX,coh.org,PROXY
 HOST-SUFFIX,comodoca.com,PROXY
 HOST-SUFFIX,company-target.com,PROXY
 HOST-SUFFIX,contabo.net,PROXY
+HOST-SUFFIX,cookiebot.com,PROXY
 HOST-SUFFIX,cookielaw.org,PROXY
 HOST-SUFFIX,cookieyes.com,PROXY
 HOST-SUFFIX,covid19rx.org,PROXY
@@ -308,6 +309,7 @@ HOST-SUFFIX,flux-cdn.com,PROXY
 HOST-SUFFIX,fly2cn.top,PROXY
 HOST-SUFFIX,font.im,PROXY
 HOST-SUFFIX,fontawesome.com,PROXY
+HOST-SUFFIX,fonts.net,PROXY
 HOST-SUFFIX,force.com,PROXY
 HOST-SUFFIX,fortyphlosiona.com,PROXY
 HOST-SUFFIX,foursquare.com,PROXY
@@ -657,6 +659,7 @@ HOST-SUFFIX,steamgames.com,PROXY
 HOST-SUFFIX,steampowered.com,PROXY
 HOST-SUFFIX,steamstatic.com,PROXY
 HOST-SUFFIX,steamusercontent.com,PROXY
+HOST-SUFFIX,storyblok.com,PROXY
 HOST-SUFFIX,strikingly.com,PROXY
 HOST-SUFFIX,strikinglycdn.com,PROXY
 HOST-SUFFIX,stripe.com,PROXY
