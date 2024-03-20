@@ -84,6 +84,7 @@ HOST-SUFFIX,addthiscdn.com,PROXY
 HOST-SUFFIX,addthisedge.com,PROXY
 HOST-SUFFIX,addtoany.com,PROXY
 HOST-SUFFIX,adform.net,PROXY
+HOST-SUFFIX,adjust.com,PROXY
 HOST-SUFFIX,adnxs.com,PROXY
 HOST-SUFFIX,adobe.com,PROXY
 HOST-SUFFIX,adobedtm.com,PROXY
@@ -312,6 +313,7 @@ HOST-SUFFIX,fortyphlosiona.com,PROXY
 HOST-SUFFIX,foursquare.com,PROXY
 HOST-SUFFIX,free.hr,PROXY
 HOST-SUFFIX,freenom.com,PROXY
+HOST-SUFFIX,freshchat.com,PROXY
 HOST-SUFFIX,garr.it,PROXY
 HOST-SUFFIX,gcorelabs.com,PROXY
 HOST-SUFFIX,geekbench.com,PROXY
@@ -737,6 +739,7 @@ HOST-SUFFIX,vk.design,PROXY
 HOST-SUFFIX,vkcache.com,PROXY
 HOST-SUFFIX,vk-cdn.net,PROXY
 HOST-SUFFIX,vk-portal.net,PROXY
+HOST-SUFFIX,vulcanlabs.co,PROXY
 HOST-SUFFIX,vwo.com,PROXY
 HOST-SUFFIX,waqi.info,PROXY
 HOST-SUFFIX,waveprotocol.org,PROXY
