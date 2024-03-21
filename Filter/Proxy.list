@@ -433,6 +433,7 @@ HOST-SUFFIX,krxd.net,PROXY
 HOST-SUFFIX,launchdarkly.com,PROXY
 HOST-SUFFIX,lencr.org,PROXY
 HOST-SUFFIX,liangzipic.com,PROXY
+HOST-SUFFIX,lianjiajichang.com,PROXY
 HOST-SUFFIX,librespeed.org,PROXY
 HOST-SUFFIX,licdn.com,PROXY
 HOST-SUFFIX,limneos.net,PROXY
@@ -796,6 +797,7 @@ HOST-SUFFIX,youtube-nocookie.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,zaobao.com,PROXY
 HOST-SUFFIX,zi-scripts.com,PROXY
+HOST-SUFFIX,zmmoo.com,PROXY
 #
 IP-CIDR,109.239.140.0/24,PROXY
 IP-CIDR,172.110.32.0/21,PROXY
